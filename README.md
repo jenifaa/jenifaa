@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="1000" src="https://github.com/jenifaa/jenifaa/blob/main/Dark%20Blue%20Modern%20Programming%20Presentation%20(851%20x%20315%20px)%20(2).png"  />
+  <img style="width: 90%; height: auto;" src="https://github.com/jenifaa/jenifaa/blob/main/Dark%20Blue%20Modern%20Programming%20Presentation%20(851%20x%20315%20px)%20(2).png"  />
 </div>
 
 ###
