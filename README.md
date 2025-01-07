@@ -62,6 +62,4 @@
 
 ###
 
-<h4 align="left">My State</h4>
 
-###
