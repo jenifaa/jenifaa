@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning Jwt<br>🎯 Goals:  Become a junior web developer by 2025<br>🎲 Fun fact: I like to eat a lot.</p>
+<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning Express js<br>🎯 Goals:  Become a junior web developer by 2025<br>🎲 Fun fact: I like to eat a lot.</p>
 
 ###
 
