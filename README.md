@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">Social Links!!</h4>
+<h3 align="left">Social Links!!</h3>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<h4 align="left">My State</h4>
+<h3 align="left">My State</h3>
 
 ###
 
