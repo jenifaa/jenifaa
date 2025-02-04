@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning Next js<br>🎯 Goals:  Become a junior web developer by 2025<br>🎲 Fun fact: I like to eat a lot.</p>
+<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning next.js<br>🎯 Goals:  Become a junior web developer by 2025<br>🎲 Fun fact: I like to eat a lot.</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -40,16 +40,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
 
-<h3 align="left">Social Links!!</h3>
+<h4 align="left">Social Links!!</h4>
 
 ###
 
-<div align="left">
-  <a href="linkedin.com/in/nahida-akter-jenifa" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/nahida-akter-jenifa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href=" https://x.com/jenifarahmn?t=_zGQC6zIRzoZZUbr8FnQZQ&s=08 " target="_blank">
@@ -60,10 +62,9 @@
   </a>
 </div>
 
-
 ###
 
-<h3 align="left">My State</h3>
+<h4 align="left">My State</h4>
 
 ###
 
@@ -73,5 +74,4 @@
 </div>
 
 ###
-
 
