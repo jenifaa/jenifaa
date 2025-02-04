@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 90%; height: auto;" src="https://github.com/jenifaa/jenifaa/blob/main/profileBanner.png"  />
+  <img style="width: 100%; height: auto;" src="https://github.com/jenifaa/jenifaa/blob/main/profileBanner.png"  />
 </div>
 
 ###
